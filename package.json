@@ -113,7 +113,7 @@
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.25",
     "path": "^0.12.7",
-    "properties-reader": "0.0.16",
+    "properties-reader": "2.2.0",
     "qrcode.vue": "^1.6.2",
     "typeface-montserrat": "0.0.54",
     "typeface-open-sans": "0.0.54",
